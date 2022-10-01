@@ -28,7 +28,7 @@ const Business = () =>  (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         With the right credit card, you can improve your financial life by
         building credit, earning rewards and saving money, but with hundreds
-        of credit cards on the market, DexKash is your best bet.
+        of credit cards available in the market, DexKash is your best bet.
       </p>
 
       <Button styles={`mt-10`} />
